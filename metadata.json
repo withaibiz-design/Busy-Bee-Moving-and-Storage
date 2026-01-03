@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MoveVoice AI Agents",
+  "description": "Interactive voice agents for moving companies specializing in customer service and emergency requests.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
